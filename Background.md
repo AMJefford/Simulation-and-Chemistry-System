@@ -1,3 +1,0 @@
-This was my coursework for Computer Science A level of which I got 100% on. I thoroughly enojyed this challenge and spent a large amount of time on it, relishing in both the design and programming side. 
-There are 5 individual .py files containing code. 'Teacher File.py', 'Simulation.py', and 'Student File,py' are the main bulk of the code while 'Database Info.py' creates the encrypted database and 'DatabaseKey.py' contains the encryption for the database.
-    
