@@ -1,0 +1,11 @@
+not sure, False, Not MC, What is a ligand?, An atom with a lone pair of electrons,Michael Jefford,2,1,Physical Chemistry,Periodicity
+Decreases, False, Not MC, How does the atomic radius change across period 2?, Decrease,Michael Jefford,2,1,Physical Chemistry,Periodicity
+A, False, Not MC, What letter is used to represent the atomic number of an atom?, Z,Michael Jefford,2,1,Physical Chemistry,Periodicity
+6, True, MC, How many electrons does the p orbital hold?, 6,Michael Jefford,2,1,Physical Chemistry,Periodicity
+36, True, MC, How many neutrons in one atom of Cu-65?, 36,Michael Jefford,1,1,Physical Chemistry,Atomic Structure
+UNSURE, False, Not MC, What is an isotope?, same number of protons/same atomic number/different mass number/different number of neutrons,Michael Jefford,1,1,Physical Chemistry,Atomic Structure
+unsure, False, Not MC, What is a ligand?, An atom with a lone pair of electrons,Robert Thomas,3,0,Physical Chemistry,Periodicity
+increases, False, Not MC, How does the atomic radius change across period 2?, Decrease,Robert Thomas,3,0,Physical Chemistry,Periodicity
+unsure, False, Not MC, What is a transition metal?, partially filled/d/orbital,Robert Thomas,3,0,Physical Chemistry,Periodicity
+, False, Not MC, What letter is used to represent the atomic number of an atom?, Z,Robert Thomas,3,0,Physical Chemistry,Periodicity
+, False, Not MC, What letter represents the mass number?, A,Robert Thomas,3,0,Physical Chemistry,Periodicity

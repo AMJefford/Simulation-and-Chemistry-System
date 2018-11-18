@@ -1,0 +1,11 @@
+How many neutrons in one atom of Cu-65?,36,Physical Chemistry,Atomic Structure,MC,30,32,34,13A/Ch2,1
+What is an isotope?,same number of protons/same atomic number/different mass number/different number of neutrons,Physical Chemistry,Atomic Structure,Not MC,x,x,x,13A/Ch2,1
+What is a ligand?,An atom with a lone pair of electrons,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13A/Ch2,2
+How does the atomic radius change across period 2?,Decrease,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13A/Ch2,2
+What letter is used to represent the atomic number of an atom?,Z,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13A/Ch2,2
+How many electrons does the p orbital hold?,6,Physical Chemistry,Periodicity,MC,4,2,10,13A/Ch2,2
+What is a ligand?,An atom with a lone pair of electrons,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13B/Ch1,3
+How does the atomic radius change across period 2?,Decrease,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13B/Ch1,3
+What is a transition metal?,partially filled/d/orbital,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13B/Ch1,3
+What letter is used to represent the atomic number of an atom?,Z,Inorganic Chemistry,Periodicity,Not MC,x,x,x,13B/Ch1,3
+What letter represents the mass number?,A,Physical Chemistry,Periodicity,Not MC,x,x,x,13B/Ch1,3

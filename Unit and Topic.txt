@@ -1,0 +1,3 @@
+Physical Chemistry,Atomic Structure,Amount of Substance
+Inorganic Chemistry,Periodicity,Group 2
+Organic Chemistry,Alkanes,Alcohols

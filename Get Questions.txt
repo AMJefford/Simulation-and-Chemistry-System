@@ -1,0 +1,19 @@
+What is an alkene?,Carbon carbon/double/bond,Organic Chemistry,Alkanes,Not MC,x,x,x
+What is an alkane?,Carbon carbon/single/bond,Organic Chemistry,Alkanes,Not MC,x,x,x
+What group is magnesium in?,2,Inorganic Chemistry,Group 2,MC,3,4,7
+What is a ligand?,An atom with a lone pair of electrons,Inorganic Chemistry,Periodicity,Not MC,x,x,x
+What is an alkene?,Carbon carbon double bond,Organic Chemistry,Alkanes,MC,Carbon carbon single bond,An atom with a carboxyl group attached,An alcohol
+What is an alkane?,Carbon carbon/single/bond,Organic Chemistry,Alkanes,Not MC,x,x,x
+How does the atomic radius change across period 2?,Decrease,Inorganic Chemistry,Periodicity,Not MC,x,x,x
+What is a transition metal?,partially filled/d/orbital,Inorganic Chemistry,Periodicity,Not MC,x,x,x
+How many neutrons in one atom of Cu-65?,36,Physical Chemistry,Atomic Structure,MC,30,32,34
+What is an isotope?,same number of protons/same atomic number/different mass number/different number of neutrons,Physical Chemistry,Atomic Structure,Not MC,x,x,x
+1 gram of magensium contains how many atoms?,2.5*10^22,Physical Chemistry,Amount of Substance,Not MC,x,x,x
+One mole of carbon-12 has a mass of?,12.0g,Physical Chemistry,Amount of Substance,MC,12g,13g,11.5g
+Can a tertiary alcohol be oxidised?,No,Organic Chemistry,Alcohols,MC,Yes,Not sure,Sometimes
+How many types of alcohols are there?,3,Orangic Chemistry,Alcohols,Not MC,x,x,x
+What is Avogadros's number?,6.02*10^23,Physical Chemistry,Amount of Substance,MC,6.03*10^-23,6.02*10^24,6.03*10^24
+Moles = ? * ?,Concentration * Volume,Physical Chemistry,Amount of Substance,MC,Concentration * Pressure, Mr * Volume, Not sure
+What letter is used to represent the atomic number of an atom?,Z,Inorganic Chemistry,Periodicity,Not MC,x,x,x
+What letter represents the mass number?,A,Physical Chemistry,Periodicity,Not MC,x,x,x
+How many electrons does the p orbital hold?,6,Physical Chemistry,Periodicity,MC,4,2,10
