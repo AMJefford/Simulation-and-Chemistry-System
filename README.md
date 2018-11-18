@@ -1,1 +1,1 @@
-# Simulation-and-Chemistry-System
+This was my coursework for Computer Science A level of which I got 100% on. I thoroughly enojyed this challenge and spent a large amount of time on it, relishing in both the design and programming side. 
